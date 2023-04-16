@@ -1,4 +1,4 @@
-<h1>Hi, I'm Garrick! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Garrick! <br/><a href="www.linkedin.com/in/garrick-jackson-jr-493723245">Aspiring CyberSecurity Engineer</a>/h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
