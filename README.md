@@ -1,4 +1,4 @@
-<h1>Hi, I'm Garrick! <br/><a href="www.linkedin.com/in/garrick-jackson-jr-493723245">Aspiring CyberSecurity Engineer</a>
+<h1>Hi, I'm Garrick! <br/><a href="www.linkedin.com/in/garrick-jackson-jr-493723245">Aspiring SOC Analyst</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
