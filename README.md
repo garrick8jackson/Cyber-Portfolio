@@ -1,6 +1,6 @@
-<h1>Hi, I'm Garrick! <br/><a href="www.linkedin.com/in/garrick-jackson-jr-493723245">Aspiring SOC Analyst</a>
+<h1>Hi, I'm Garrick! <br/><a href="www.linkedin.com/in/garrick-jackson-jr-493723245">Aspiring SOC Analyst/Security Analyst</a>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 CyberSecurity Labs:</h2>
 
 - <b>Failed Authentication and Log Observation</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/garrick8jackson/Azure-SOC)
