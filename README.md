@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Labs:</h2>
 
 - <b>Failed Authentication and Log Observation</b>
-  - [Creating a Live SOC/HoneyNet in Azure](https://github.com/garrick8jackson/Azure-SOC)
+  - [Lab ](https://github.com/garrick8jackson/Lab-1)
 - <b>Enable MDC and Configure Log Collection for Virtual Machines</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Tenant Level Logging</b>
