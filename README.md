@@ -13,7 +13,7 @@
   - [Lab](https://github.com/garrick8jackson/Lab-4)
  
 - <b>Resource Level Logging</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Lab](https://github.com/garrick8jackson/Lab-5)
 - <b>World Attack Map Configuration</b>
 
 - <b>Analytics, Alerting, and Incident Generation</b>
