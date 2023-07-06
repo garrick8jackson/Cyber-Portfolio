@@ -7,10 +7,8 @@
 - <b>Enable MDC and Configure Log Collection for Virtual Machines</b>
   - [Lab](https://github.com/garrick8jackson/Lab-2)
 - <b>Tenant Level Logging</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Lab](https://github.com/garrick8jackson/Lab-3)
+
 - <b>Subscription Level Logging</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
