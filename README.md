@@ -5,7 +5,7 @@
 - <b>Failed Authentication and Log Observation</b>
   - [Lab ](https://github.com/garrick8jackson/Lab-1)
 - <b>Enable MDC and Configure Log Collection for Virtual Machines</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Lab](https://github.com/garrick8jackson/Lab-2)
 - <b>Tenant Level Logging</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
