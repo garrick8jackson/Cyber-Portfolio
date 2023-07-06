@@ -14,14 +14,18 @@
  
 - <b>Resource Level Logging</b>
   - [Lab](https://github.com/garrick8jackson/Lab-5)
+    
 - <b>World Attack Map Configuration</b>
   - [Lab](https://github.com/garrick8jackson/Lab-6)
+    
 - <b>Analytics, Alerting, and Incident Generation</b>
-  -[Lab](https://github.com/garrick8jackson/Lab-7)
+  - [Lab](https://github.com/garrick8jackson/Lab-7)
+  
 - <b>Attack Traffic Generation</b>
-  -[Lab](
+  - [Lab](https://github.com/garrick8jackson/Lab-8)
+  
 - <b>Working Incidents and Incident Response- Brute Force Success(Windows)</b>
-  -[Lab](
+  - [Lab](https://github.com/garrick8jackson/Lab-9)
 <!--
 
 Here are some ideas to get you started:
