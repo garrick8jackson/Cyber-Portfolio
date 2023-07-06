@@ -15,7 +15,7 @@
 - <b>Resource Level Logging</b>
   - [Lab](https://github.com/garrick8jackson/Lab-5)
 - <b>World Attack Map Configuration</b>
-
+  - [Lab](https://github.com/garrick8jackson/Lab-6)
 - <b>Analytics, Alerting, and Incident Generation</b>
 
 - <b>Attack Traffic Generation</b>
