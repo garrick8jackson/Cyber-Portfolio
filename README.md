@@ -1,6 +1,15 @@
-<h1>Hi, I'm Garrick! <br/><a href="www.linkedin.com/in/garrick-jackson-jr-493723245">Aspiring SOC Analyst/Security Analyst</a>
+<h1>Hi, I'm Garrick! <br/><a href="www.linkedin.com/in/garrick-jackson-jr-493723245">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 CyberSecurity Labs:</h2>
+
+- <b>Enabling Analytic Rules in Microsoft Sentinel</b>
+  - [Lab ]
+
+- <b>Investiating and Identifing Events in Microsoft Sentinel</b>
+  - [Lab ]
+
+- <b>Detecting and Investigating Events in micrso Sentinel</b>
+  - [Lab ]
 
 - <b>Failed Authentication and Log Observation</b>
   - [Lab ](https://github.com/garrick8jackson/Lab-1)
