@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Labs:</h2>
 
 - <b>Enabling Analytic Rules in Microsoft Sentinel</b>
-  - [Lab ](https://github.com/garrick8jackson/Lab-Enabling-Analytic-Rules)
+  - [Lab ](https://github.com/garrick8jackson/Lab--Analytic-Rules)
 
 - <b>Investiating and Identifing Events in Microsoft Sentinel</b>
   - [Lab ]
