@@ -6,7 +6,7 @@
   - [Lab ](https://github.com/garrick8jackson/Lab--Analytic-Rules/blob/Main/README.md)
 
 - <b>Investiating and Identifing Events in Microsoft Sentinel</b>
-  - [Lab ]
+  - [Lab ](https://github.com/garrick8jackson/Investigate-and-Identify-with-KQL/blob/Main/README.md)
 
 - <b>Detecting and Investigating Events in micrso Sentinel</b>
   - [Lab ](https://github.com/garrick8jackson/Detect-and-investigate/blob/Main/README.md)
