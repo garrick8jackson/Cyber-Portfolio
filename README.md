@@ -9,7 +9,7 @@
   - [Lab ]
 
 - <b>Detecting and Investigating Events in micrso Sentinel</b>
-  - [Lab ]
+  - [Lab ](https://github.com/garrick8jackson/Detect-and-investigate/blob/Main/README.md)
 
 - <b>Failed Authentication and Log Observation</b>
   - [Lab ](https://github.com/garrick8jackson/Lab-1)
